@@ -3,16 +3,16 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-10B981?style=for-the-badge)]()
 [![Design](https://img.shields.io/badge/UI-Deep%20Sea%20Glassmorphism-38BDF8?style=for-the-badge)]()
-[![Live Demo](https://img.shields.io/badge/Live_Demo-DeepSea_Calculator-00f2fe?style=for-the-badge&logo=firefox&logoColor=white)](http://deepseanumbers.kesug.com/)
+<a href="http://deepseanumbers.kesug.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-DeepSea_Calculator-00f2fe?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Demo">
+</a>
 
 > **DeepSeaWorlds** is a full-stack, modular PHP web application designed to compute and verify complex mathematical number properties. Featuring a modern ocean-themed glassmorphism interface, real-time single-number entry, quick-test preset chips, and interactive calculations for 13 distinct number types.
 
 ---
+## 🌐 Live Preview
 
-## 🚀 Live Demo
-
-Click the link below to test the live application:
-👉 **[Launch DeepSea Number Calculator](http://deepseanumbers.kesug.com/)**
+- 🔗 **Website:** <a href="http://deepseanumbers.kesug.com/" target="_blank">deepseanumbers.kesug.com</a>
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ Click the link below to test the live application:
 ## 📁 Directory & Project Structure
 
 ```text
-all_number/
+deepsea-number-calculator/
 ├── css/
 │   └── style.css            # DeepSeaWorlds Modern Glassmorphism Stylesheet
 ├── includes/
