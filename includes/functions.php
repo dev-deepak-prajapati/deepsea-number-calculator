@@ -2,7 +2,7 @@
 /**
  * DeepSeaWorlds - Number Property Calculator Suite
  * Centralized Mathematical Logic Functions
- * Designed by Antigravity
+ * Designed by Deepak Prajapati 
  */
 
 // 1. Armstrong Number: Sum of each digit raised to the power of total digits equals the number itself.
